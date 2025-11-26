@@ -41,3 +41,12 @@ Q.2
   : git commit -m <name>
   : git push origin main
   Enter username and passowrd
+
+Q.3
+
+1. **DevOps Workflow**: Git and Docker are core to CI/CD pipelines. You’ll automate testing, building, and deploying apps.
+2. **Linux Skills**: Working with Docker on Linux sharpens command-line skills and teaches environment management.
+3. **Git**: Using Git for version control helps you learn code management, branching, and collaboration in teams.
+4. **Docker**: Building and running containers teaches you about environment isolation and app deployment in a consistent way.
+5. **Practical Workflow**: You’ll get hands-on with pulling code, building Docker images, running tests, and pushing to registries—key tasks in DevOps.
+
