@@ -42,6 +42,17 @@ Q.2
   : git push origin main
   Enter username and passowrd
 
+For Docker
+1. Start the docker service on
+  : service docker start
+2. Login into dockerhub account
+   : docker login
+3. After process completion I'll push that image in docker repository
+   : docker <imagename> <dockerrepopath> (this will create image)
+   : docker push <newimage>
+4. Image will pushed.
+   
+
 Q.3
 
 1. **DevOps Workflow**: Git and Docker are core to CI/CD pipelines. You’ll automate testing, building, and deploying apps.
